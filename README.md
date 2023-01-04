@@ -4,4 +4,4 @@ Skill :
 1. UI/UX
 2. Graphic Design
 
-- 🌱 I’m currently learning about UI/UX
+- 🌱 I’m currently learning about UI/UX and Graphic Design
