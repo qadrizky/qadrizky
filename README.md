@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Qadrizky Fitrah Ramdhani
+Skill UI/UX
 <!--
 **qadrizky/qadrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
